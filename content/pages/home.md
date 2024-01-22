@@ -1,7 +1,7 @@
 ---
 header: Get Started by editing app/page/tsx
 logo:
-  url: /next.svg
+  url: /vercel.svg
   alt: NextJS
 links:
   - header: Docs
