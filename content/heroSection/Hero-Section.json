@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "title": "Fintech",
+      "description": "Reconstructing data tracking & management",
+      "selector": "Fintech",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/fintech"
+      }
+    },
+    {
+      "title": "Banking",
+      "description": "Re-constructing the present banking scenario into a future-ready, automated workspace that minimizes redundancy of work",
+      "selector": "Banking",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/banking"
+      }
+    },
+    {
+      "title": "Insurance",
+      "description": "Reconstructing data tracking & management",
+      "selector": "Insurances",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/insurance"
+      }
+    },
+    {
+      "title": "FMCG",
+      "description": "Simplifying workload with better insights",
+      "selector": "FMCG",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/fmcg"
+      }
+    }
+  ]
+}
