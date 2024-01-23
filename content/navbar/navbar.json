@@ -1,0 +1,11 @@
+{
+  "logo": "/tina.svg",
+  "links": [
+    {
+      "link": "/about"
+    }
+  ],
+  "btn": {
+    "button": "/getstarted"
+  }
+}
