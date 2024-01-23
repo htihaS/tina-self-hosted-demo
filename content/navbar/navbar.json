@@ -2,10 +2,16 @@
   "logo": "/tina.svg",
   "links": [
     {
-      "link": "/about"
+      "label": "Industries",
+      "link": "/industries"
+    },
+    {
+      "label": "Service",
+      "link": "/services"
     }
   ],
   "btn": {
-    "button": "/getstarted"
+    "label": "Contact us",
+    "link": "/contactus"
   }
 }
