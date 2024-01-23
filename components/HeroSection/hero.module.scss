@@ -1,0 +1,136 @@
+.container {
+  background: #0a0a0a;
+  color: #e6eced;
+
+  position: relative;
+
+  :global(.slick-dots) {
+    display: none !important;
+  }
+
+  .custom {
+    background-color: white;
+    color: blue;
+  }
+
+  .slide_selector {
+    position: absolute;
+    right: 67px;
+    top: 270px;
+    z-index: 100;
+  }
+
+  .content_con {
+    margin-top: 256px;
+    margin-bottom: 230px;
+    margin-left: 67px;
+
+    .title {
+      margin-bottom: 2rem !important;
+      margin-top: 0;
+      color: #e6eced;
+      font-weight: 500;
+      font-size: 56px;
+      line-height: 56px;
+    }
+
+    .desc {
+      color: #8a8e8f;
+      margin-bottom: 5rem;
+      max-width: 764px;
+      font-weight: 400;
+      font-size: 28px;
+      line-height: 30px;
+    }
+
+    .btn {
+      width: 13.2rem;
+      height: 4.3rem;
+      display: flex !important;
+      justify-content: center !important;
+      align-items: center !important;
+    }
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  .container {
+    .content_con {
+      .desc {
+        max-width: 660px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    :global(.slick-dots) {
+      display: flex !important;
+      list-style-type: none !important;
+
+      li {
+        margin: 0 0.25rem 55px !important;
+      }
+
+      button {
+        display: block !important;
+        width: 12px !important;
+        height: 12px !important;
+        padding: 0 !important;
+        border: none !important;
+        border-radius: 100% !important;
+        background-color: #f0f0f0 !important;
+        opacity: 0.3 !important;
+      }
+
+      :global(li.slick-active button) {
+        background-color: #f0f0f0 !important;
+        opacity: 1 !important;
+      }
+    }
+
+    .slide_selector {
+      display: none;
+    }
+
+    .content_con {
+      text-align: center;
+      max-width: 600px;
+      margin: 188px 105px 518px;
+
+      .title {
+        margin-bottom: 32px !important;
+      }
+
+      .desc {
+        max-width: 500px;
+        margin: auto auto 80px !important;
+      }
+
+      .btn {
+        margin: auto !important;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .content_con {
+    margin: 150px 0 383px !important;
+
+    .title {
+      max-width: 350px !important;
+      margin: auto !important;
+    }
+
+    .desc {
+      max-width: 350px !important;
+    }
+
+    .btn {
+      width: 12rem !important;
+      height: 3.7rem !important;
+    }
+  }
+}
