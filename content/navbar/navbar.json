@@ -2,6 +2,10 @@
   "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
+      "label": "Case studies",
+      "link": "/caseStudies"
+    },
+    {
       "label": "Service",
       "link": "/services"
     },
