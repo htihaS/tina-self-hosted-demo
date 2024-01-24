@@ -2,8 +2,8 @@
   "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
-      "label": "Case studies",
-      "link": "/casestudies"
+      "label": "Company",
+      "link": "/company"
     },
     {
       "label": "Service",
@@ -16,6 +16,10 @@
     {
       "label": "Solutions",
       "link": "/solutions"
+    },
+    {
+      "label": "Case studies",
+      "link": "/casestudies"
     }
   ],
   "btn": {
