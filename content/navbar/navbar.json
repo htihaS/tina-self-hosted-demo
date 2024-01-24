@@ -2,28 +2,16 @@
   "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
-      "label": "Carrers",
-      "link": "/carrers"
-    },
-    {
-      "label": "Service",
-      "link": "/services"
+      "label": "Solutions",
+      "link": "/solutions"
     },
     {
       "label": "Industries",
       "link": "/industries"
     },
     {
-      "label": "Solutions",
-      "link": "/solutions"
-    },
-    {
-      "label": "Case studies",
-      "link": "/casestudies"
-    },
-    {
-      "label": "Company",
-      "link": "/company"
+      "label": "Service",
+      "link": "/services"
     }
   ],
   "btn": {
