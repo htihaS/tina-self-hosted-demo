@@ -1,13 +1,17 @@
 {
-  "logo": "/tina.svg",
+  "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
-      "label": "industries",
-      "link": "/industries"
+      "label": "Service",
+      "link": "/services"
     },
     {
-      "label": "service",
-      "link": "/services"
+      "label": "Solutions",
+      "link": "/solutions"
+    },
+    {
+      "label": "Industries",
+      "link": "/industries"
     }
   ],
   "btn": {
