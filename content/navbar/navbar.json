@@ -2,10 +2,6 @@
   "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
-      "label": "Company",
-      "link": "/company"
-    },
-    {
       "label": "Service",
       "link": "/services"
     },
@@ -14,12 +10,16 @@
       "link": "/solutions"
     },
     {
+      "label": "Industries",
+      "link": "/industries"
+    },
+    {
       "label": "Case studies",
       "link": "/caseStudies"
     },
     {
-      "label": "Industries",
-      "link": "/industries"
+      "label": "Company",
+      "link": "/company"
     }
   ],
   "btn": {
