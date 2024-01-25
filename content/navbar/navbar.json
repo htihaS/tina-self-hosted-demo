@@ -2,16 +2,16 @@
   "logo": "/images\\linkfields_logo_1.png",
   "links": [
     {
-      "label": "Solutions",
-      "link": "/solutions"
-    },
-    {
       "label": "Industries",
       "link": "/industries"
     },
     {
       "label": "Service",
       "link": "/services"
+    },
+    {
+      "label": "Solutions",
+      "link": "/solutions"
     }
   ],
   "btn": {
