@@ -3,15 +3,15 @@
   "links": [
     {
       "label": "Solutions",
-      "link": "/solutions"
-    },
-    {
-      "label": "Industries",
-      "link": "/industries"
+      "link": "/solution"
     },
     {
       "label": "Service",
       "link": "/services"
+    },
+    {
+      "label": "Industries",
+      "link": "/industries"
     }
   ],
   "btn": {
