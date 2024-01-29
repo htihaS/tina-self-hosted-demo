@@ -1,12 +1,14 @@
 {
+  "heroVideo": "/videos\\heroVideo.mp4",
+  "heroImage": "/images\\LFI_Homepage_1.png",
   "services": [
     {
-      "title": "Fintech",
+      "title": "Insurance",
       "description": "Reconstructing data tracking & management",
-      "selector": "Fintech",
+      "selector": "Insurances",
       "btn": {
         "label": "Explore more",
-        "link": "/explore-more/fintech"
+        "link": "/explore-more/insurance"
       }
     },
     {
@@ -19,15 +21,6 @@
       }
     },
     {
-      "title": "Insurance",
-      "description": "Reconstructing data tracking & management",
-      "selector": "Insurances",
-      "btn": {
-        "label": "Explore more",
-        "link": "/explore-more/insurance"
-      }
-    },
-    {
       "title": "FMCG",
       "description": "Simplifying workload with better insights",
       "selector": "FMCG",
@@ -35,6 +28,41 @@
         "label": "Explore more",
         "link": "/explore-more/fmcg"
       }
+    },
+    {
+      "title": "Fintech",
+      "description": "Reconstructing data tracking & management",
+      "selector": "Fintech",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/fintech"
+      }
+    }
+  ],
+  "slider": [
+    {
+      "title": "datacentrix",
+      "image": "/images\\slider_img5.png"
+    },
+    {
+      "title": "cocacola",
+      "image": "/images\\slider_img1.png"
+    },
+    {
+      "title": "adaptIT",
+      "image": "/images\\slider_img2.png"
+    },
+    {
+      "title": "absa",
+      "image": "/images\\slider_img3.png"
+    },
+    {
+      "title": "Telkom",
+      "image": "/images\\slider_img4.png"
+    },
+    {
+      "title": "aspen",
+      "image": "/images\\slider_img6.png"
     }
   ]
 }
