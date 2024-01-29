@@ -3,7 +3,7 @@
   "heroImage": "/images\\LFI_Homepage_1.png",
   "services": [
     {
-      "title": "Insurance",
+      "title": "insurance",
       "description": "Reconstructing data tracking & management",
       "selector": "Insurances",
       "btn": {
