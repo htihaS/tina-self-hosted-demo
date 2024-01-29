@@ -3,9 +3,9 @@
   "heroImage": "/images\\LFI_Homepage_1.png",
   "services": [
     {
-      "title": "insurance",
+      "title": "Insurance dfdsfsd",
       "description": "Reconstructing data tracking & management",
-      "selector": "Insurances",
+      "selector": "fdsfdsfds",
       "btn": {
         "label": "Explore more",
         "link": "/explore-more/insurance"
@@ -21,15 +21,6 @@
       }
     },
     {
-      "title": "FMCG",
-      "description": "Simplifying workload with better insights",
-      "selector": "FMCG",
-      "btn": {
-        "label": "Explore more",
-        "link": "/explore-more/fmcg"
-      }
-    },
-    {
       "title": "Fintech",
       "description": "Reconstructing data tracking & management",
       "selector": "Fintech",
@@ -37,13 +28,18 @@
         "label": "Explore more",
         "link": "/explore-more/fintech"
       }
+    },
+    {
+      "title": "FMCG",
+      "description": "Simplifying workload with better insights",
+      "selector": "FMCG",
+      "btn": {
+        "label": "Explore more",
+        "link": "/explore-more/fmcg"
+      }
     }
   ],
   "slider": [
-    {
-      "title": "datacentrix",
-      "image": "/images\\slider_img5.png"
-    },
     {
       "title": "cocacola",
       "image": "/images\\slider_img1.png"
@@ -57,8 +53,12 @@
       "image": "/images\\slider_img3.png"
     },
     {
-      "title": "Telkom",
+      "title": "telkom",
       "image": "/images\\slider_img4.png"
+    },
+    {
+      "title": "datacentrix",
+      "image": "/images\\slider_img5.png"
     },
     {
       "title": "aspen",
