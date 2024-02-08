@@ -3,15 +3,7 @@
     {
       "TabName": "Engineering Services",
       "title": "Engineering Services",
-      "description": "Solutions that are engineered to perfection, specifically for the engineering sector.",
-      "serviceBlocks": [
-        {
-          "title": "Quality Control",
-          "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
-          "actionButton": "Read more",
-          "blockSize": "medium"
-        }
-      ]
+      "description": "Solutions that are engineered to perfection, specifically for the engineering sector."
     }
   ]
 }
