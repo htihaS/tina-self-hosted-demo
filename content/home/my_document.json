@@ -35,6 +35,11 @@
     },
     "analytics": [
       {
+        "time": "150",
+        "suffix": "+",
+        "description": "solutions delivered"
+      },
+      {
         "time": "15",
         "suffix": "yrs",
         "description": "avg client tenure"
