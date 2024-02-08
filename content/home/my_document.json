@@ -35,6 +35,11 @@
     },
     "analytics": [
       {
+        "time": "5",
+        "suffix": "mn",
+        "description": "daily digital journeys"
+      },
+      {
         "time": "150",
         "suffix": "+",
         "description": "solutions delivered"
