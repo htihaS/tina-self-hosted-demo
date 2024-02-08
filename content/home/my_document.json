@@ -6,20 +6,8 @@
       "description": "Solutions that are engineered to perfection, specifically for the engineering sector.",
       "serviceBlocks": [
         {
-          "title": "DevOps",
-          "description": "DevOps practices that ensure that operations and development process supplement each other.",
-          "actionButton": "Read more",
-          "blockSize": "large"
-        },
-        {
-          "title": "Quality Control",
-          "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
-          "actionButton": "Read more",
-          "blockSize": "medium"
-        },
-        {
           "title": "Application Development",
-          "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
+          "description": "With the help of experienced developers and designers, we make apps that are highly usable",
           "actionButton": "Read more",
           "blockSize": "medium"
         }
