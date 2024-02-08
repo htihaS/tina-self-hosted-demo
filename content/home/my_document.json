@@ -1,14 +1,17 @@
 {
-  "Hero": "Testing the header",
-  "logo": {
-    "url": "/zeit.svg",
-    "alt": "zeit-img"
-  },
-  "links": [
+  "ourServices": [
     {
-      "header": "link-0 header",
-      "description": "lin-0 description",
-      "url": "link-0 -url"
+      "TabName": "Engineering Services",
+      "title": "Engineering Services",
+      "description": "Solutions that are engineered to perfection, specifically for the engineering sector.",
+      "serviceBlocks": [
+        {
+          "title": "Quality Control",
+          "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
+          "actionButton": "Read more",
+          "blockSize": "medium"
+        }
+      ]
     }
   ]
 }
