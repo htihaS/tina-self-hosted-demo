@@ -35,6 +35,11 @@
     },
     "analytics": [
       {
+        "time": "10",
+        "suffix": "x",
+        "description": "increase in operations growth"
+      },
+      {
         "time": "5",
         "suffix": "mn",
         "description": "daily digital journeys"
