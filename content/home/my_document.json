@@ -25,5 +25,13 @@
         }
       ]
     }
-  ]
+  ],
+  "ourJourney": {
+    "status": "OUR JOURNEY",
+    "title": "15 years of Delivering Excellence",
+    "description": "Helping global enterprises with digital transformations that help them grow, adapt, scale, and reinvent themselves",
+    "actionButton": {
+      "text": "Read more"
+    }
+  }
 }
