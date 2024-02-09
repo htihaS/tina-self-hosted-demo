@@ -1,9 +1,264 @@
 {
+  "HeroSection": {
+    "services": [
+      {
+        "title": "Insurance",
+        "description": "Reconstructing data tracking & management",
+        "btn": {
+          "label": "Explore more",
+          "link": "/industries/insurance"
+        }
+      },
+      {
+        "title": "Banking",
+        "description": "Re-constructing the present banking scenario into a future-ready, automated workspace that minimizes redundancy of work",
+        "btn": {
+          "label": "Explore more",
+          "link": "/explore-more/banking"
+        }
+      },
+      {
+        "title": "Fintech",
+        "description": "Reconstructing data tracking & management",
+        "btn": {
+          "label": "Explore more",
+          "link": "/explore-more/fintech"
+        }
+      },
+      {
+        "title": "FMCG",
+        "description": "Simplifying workload with better insights",
+        "btn": {
+          "label": "Explore more",
+          "link": "/explore-more/fmcg"
+        }
+      }
+    ],
+    "slider": [
+      {
+        "title": "Azure",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/Azure.png"
+      },
+      {
+        "title": "Microsoft",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/Microsoft.png"
+      },
+      {
+        "title": "Blueprism",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/blueprism.png"
+      },
+      {
+        "title": "Automation anywhere",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/Automation-anywhere.png"
+      },
+      {
+        "title": "UiPath",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/UiPath.png"
+      },
+      {
+        "title": "Salesforce",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/sales force.png"
+      }
+    ]
+  },
   "ourServices": [
     {
       "TabName": "Engineering Services",
       "title": "Engineering Services",
-      "description": "With the help of experienced developers and designers, we make apps that are highly usable."
+      "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
+      "serviceBlocks": [
+        {
+          "title": "Application Development",
+          "description": "With the help of experienced developers and designers, we make apps that are highly usable.",
+          "actionButton": "Read more",
+          "blockSize": "medium"
+        },
+        {
+          "title": "Quality Control",
+          "description": "Quality Control",
+          "actionButton": "Read more",
+          "blockSize": "medium"
+        },
+        {
+          "title": "DevOps",
+          "description": "DevOps practices that ensure that operations and development process supplement each other.",
+          "actionButton": "Read more",
+          "blockSize": "large"
+        }
+      ]
+    },
+    {
+      "TabName": "Consulting Services",
+      "title": "Consulting Services",
+      "description": "Our expert consultants deliver innovative solutions to complex problems through the means of meticulous planning & research.",
+      "serviceBlocks": [
+        {
+          "title": "UX / UI Design",
+          "description": "Creating satisfied customers through creative interfaces and higher usability.",
+          "actionButton": "Read more",
+          "blockSize": "small"
+        },
+        {
+          "title": "Technology Advisory",
+          "description": "Helping businesses sustain value through expert opinions from both the tech and the business end.",
+          "actionButton": "Read more",
+          "blockSize": "medium"
+        },
+        {
+          "title": "Product Discovery",
+          "description": "Planning, building, testing and keeping up with complex information preparing frameworks that work with enormous informational collections.",
+          "actionButton": "Read more",
+          "blockSize": "large"
+        },
+        {
+          "title": "Solution Discovery",
+          "description": "Turning ideas and prototypes into market-ready solutions.",
+          "actionButton": "Read more"
+        }
+      ]
     }
-  ]
+  ],
+  "ourSolutions": {
+    "title": "Our Solutions",
+    "subtitle": "Transforming operations with unique ERP solutions",
+    "details": [
+      {
+        "title": "SAP",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/SAP_2011_logo 1.png",
+        "description": "We specialize in harnessing the power of SAP’s latest release, S/4HANA, for your business’s unique needs.",
+        "actionButton": {
+          "text": "Read more"
+        }
+      },
+      {
+        "title": "Odoo",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/Odoo_logo 1.png",
+        "description": "From business process reengineering to seamless integration and expert support, we redefine efficiency for your enterprise",
+        "actionButton": {
+          "text": "Read more"
+        }
+      },
+      {
+        "title": "Dynamic 365",
+        "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/Dynamics 365.png",
+        "description": "Embrace intelligent business applications that seamlessly integrate your operations and empower you with predictive insights.",
+        "actionButton": {
+          "text": "Read more"
+        }
+      }
+    ]
+  },
+  "awardsAndRecognition": [
+    {
+      "title": "We are one of Africa's Fastest Growing Company!",
+      "description": "Linkfields Innovations Pty Ltd ranked 38th in Financial Times and Statista's 2023 list of Africa’s top 100 fastest-growing companies!",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/certification_badge2.png"
+    },
+    {
+      "title": "We are a Great Place to Work Certified",
+      "description": "We make a significant change by hiring and fostering top talents from diverse backgrounds.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "image": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/great_work_certification_badge.png"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Telecom",
+      "description": "Re-defining the foundations upon which the telecommunication industry operates through highly systematic approaches.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/telkom.png"
+    },
+    {
+      "title": "Banking",
+      "description": "Re-constructing the present banking scenario into a future-ready, automated workspace that minimizes redundancy of work.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/banking.png"
+    },
+    {
+      "title": "Fintech",
+      "description": "Building reliable tools that aid businesses to achieve high performance, both internally, and externally.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/fintech.png"
+    },
+    {
+      "title": "Insurance",
+      "description": "Facilitating tools to optimize day-to-day operations saving insurance companies valuable resources.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/insurance.png"
+    },
+    {
+      "title": "Mining",
+      "description": "Helping mining industries become ready for a digital future through strategic plans for automation.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/mining.png"
+    },
+    {
+      "title": "FMGC",
+      "description": "Boosting effective product management by providing businesses with advanced systems that produce smarter insights.",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/FMGC.png"
+    },
+    {
+      "title": "Oil & Gas",
+      "description": "Optimizing Oil & Gas operations for driving sustainability, transforming supply chain efficiency and boosting market competitiveness",
+      "actionButton": {
+        "text": "Read more"
+      },
+      "backgroundImage": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/oil&gas.png"
+    }
+  ],
+  "ourJourney": {
+    "status": "OUR JOURNEY",
+    "title": "15 years of Delivering Excellence",
+    "description": "Helping global enterprises with digital transformations that help them grow, adapt, scale, and reinvent themselves",
+    "actionButton": {
+      "text": "Read more"
+    },
+    "analytics": [
+      {
+        "time": "20",
+        "suffix": "yrs",
+        "description": "avg client tenure"
+      },
+      {
+        "time": "150",
+        "suffix": "+",
+        "description": "solutions delivered"
+      },
+      {
+        "time": "5",
+        "suffix": "mn",
+        "description": "daily digital journeys"
+      },
+      {
+        "time": "10",
+        "suffix": "x",
+        "description": "increase in operations growth"
+      }
+    ]
+  },
+  "carrers": {
+    "title": "CAREERS",
+    "description": "Ready for an extraordinary work experience? ",
+    "actionButton": {
+      "text": "Join Us"
+    }
+  }
 }
