@@ -2,7 +2,7 @@
   "HeroSection": {
     "services": [
       {
-        "title": "Insurance",
+        "title": "insurance",
         "description": "Reconstructing data tracking & management",
         "btn": {
           "label": "Explore more",
@@ -233,7 +233,7 @@
     },
     "analytics": [
       {
-        "time": "20",
+        "time": "15",
         "suffix": "yrs",
         "description": "avg client tenure"
       },
