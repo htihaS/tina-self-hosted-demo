@@ -1,1 +1,10 @@
-{}
+{
+  "quickLinks": [
+    {
+      "btn": {
+        "label": "About us",
+        "link": "/aboutus"
+      }
+    }
+  ]
+}
