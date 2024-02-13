@@ -1,0 +1,35 @@
+{
+  "heroSectionData": {
+    "heading1": "Engineering",
+    "subheading1": "Creating impact by harnessing technology",
+    "imagesrc": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/engineering.jpg",
+    "status1": "Overview",
+    "subheading2": "Buildings things that are precise",
+    "para1": "Engineering relies on an expert’s ability to figure out a solution to a problem that seems impossible to achieve. By following the same philosophy we engineer software based on tough frameworks that shows flexibility of function.",
+    "status2": "WHAT WE OFFER",
+    "subheading3": "Facilitating the expertise required for change",
+    "para2": "Renovation, reinvention, and resilience are the thought process that we put into our products. Transformations are evolutions of businesses into better, more efficient systems, that will endure the digital change of the future."
+  },
+  "tabItems": [
+    {
+      "title": "DevOps",
+      "description": "Implementing DevOps procedures to ensure higher efficiency during the development process itself.",
+      "imageUrl": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/devOps.png"
+    },
+    {
+      "title": "End to end development",
+      "description": "Assisting businesses in the development process right from the start to the very end, creating market-ready products.",
+      "imageUrl": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/end-to-end-development.png"
+    },
+    {
+      "title": "Quality control",
+      "description": "Engineering workflows that ensure that every product or service that reaches to a customer matches the high standard of quality.",
+      "imageUrl": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/quality-control.png"
+    },
+    {
+      "title": "Application Development",
+      "description": "Complete renovation of businesses to prepare them for the digital future by equipping organizations with digitally empowered tools.",
+      "imageUrl": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/application-development-tab.png"
+    }
+  ]
+}
