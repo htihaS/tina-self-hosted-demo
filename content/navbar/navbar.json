@@ -1,21 +1,207 @@
 {
-  "logo": "/images\\linkfields_logo_1.png",
+  "logo": "https://images-linkfields-poc.s3.eu-west-2.amazonaws.com/linkfields_logo_1.png",
   "links": [
     {
       "label": "Solutions",
-      "link": "/solutions"
+      "description": "Ensuring quality meets  the highest standard",
+      "children": [
+        {
+          "label": "ERP SOLUTIONS",
+          "href": "/solutions/erp-solutions",
+          "children": [
+            {
+              "label": "SAP",
+              "href": "/solutions/erp-solutions/sap"
+            },
+            {
+              "label": "Odoo",
+              "href": "/solutions/erp-solutions/odoo"
+            },
+            {
+              "label": "Microsoft Dynamics",
+              "href": "/solutions/erp-solutions/microsoft-dynamics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Services",
+      "description": "Ensuring quality meets  the highest standard",
+      "children": [
+        {
+          "label": "ENGINEERING",
+          "href": "/services/engineering",
+          "children": [
+            {
+              "label": "Application Development",
+              "href": "/services/engineering/application-development"
+            },
+            {
+              "label": "Quality Control",
+              "href": "/services/engineering/quality-control"
+            },
+            {
+              "label": "DevOps",
+              "href": "/services/engineering/devops"
+            }
+          ]
+        },
+        {
+          "label": "CONSULTING",
+          "href": "/services/consulting",
+          "children": [
+            {
+              "label": "Product Discovery",
+              "href": "/services/consulting/product-discovery"
+            },
+            {
+              "label": "Solution Discovery",
+              "href": "/services/consulting/solution-discovery"
+            },
+            {
+              "label": "UX / UI Design",
+              "href": "/services/consulting/ui-ux-design"
+            },
+            {
+              "label": "Technology Advisory",
+              "href": "/services/consulting/technology-advisory"
+            }
+          ]
+        },
+        {
+          "label": "CLOUD",
+          "href": "/services/cloud",
+          "children": [
+            {
+              "label": "Cloud Consulting",
+              "href": "/services/cloud/cloud-consulting"
+            },
+            {
+              "label": "Cloud Migration",
+              "href": "/services/cloud/cloud-migration"
+            },
+            {
+              "label": "Cloud Development",
+              "href": "/services/cloud/cloud-development"
+            },
+            {
+              "label": "Kubernetes Services",
+              "href": "/services/cloud/kubernetes-services"
+            },
+            {
+              "label": "iPaaS",
+              "href": "/services/cloud/ipaas"
+            }
+          ]
+        },
+        {
+          "label": "TECHNOLOGY",
+          "href": "/services/technology",
+          "children": [
+            {
+              "label": "Big Data Enginnering",
+              "href": "/services/technology/big-data-engineering"
+            },
+            {
+              "label": "AI & Machine Learning",
+              "href": "/services/technology/ai-machine-learning"
+            }
+          ]
+        },
+        {
+          "label": "AUTOMATION",
+          "href": "/services/automation",
+          "children": [
+            {
+              "label": "Digital Transformation",
+              "href": "/services/automation/digital-transformation"
+            },
+            {
+              "label": "Robotic Process  Automation ",
+              "href": "/services/automation/robotic-process-automation"
+            }
+          ]
+        },
+        {
+          "label": "TEAMS",
+          "href": "/services/teams",
+          "children": [
+            {
+              "label": "Staff Augmentation",
+              "href": "/services/teams/staff-augmentation"
+            },
+            {
+              "label": "Managed Team",
+              "href": "/services/teams/managed-team"
+            }
+          ]
+        }
+      ]
     },
     {
       "label": "Industries",
-      "link": "/industries"
+      "description": "Ensuring quality meets  the highest standard",
+      "children": [
+        {
+          "label": "BANKING",
+          "href": "/industries/banking"
+        },
+        {
+          "label": "FMCG",
+          "href": "/industries/fmcg"
+        },
+        {
+          "label": "FINTECH",
+          "href": "/industries/fintech"
+        },
+        {
+          "label": "TELECOM",
+          "href": "/industries/telecom"
+        },
+        {
+          "label": "INSURANCE",
+          "href": "/industries/insurance"
+        },
+        {
+          "label": "MINING",
+          "href": "/industries/mining"
+        },
+        {
+          "label": "OIL & GAS",
+          "href": "/industries/oil-gas"
+        }
+      ]
     },
     {
-      "label": "Service",
-      "link": "/services"
+      "label": "Company",
+      "description": "Ensuring quality meets  the highest standard",
+      "children": [
+        {
+          "label": "ABOUT US",
+          "href": "/company/about-us"
+        },
+        {
+          "label": "OUR APPROACH",
+          "href": "/company/our-approach"
+        },
+        {
+          "label": "BLOG",
+          "href": "/company/blog"
+        },
+        {
+          "label": "NEWS & ARTICLES",
+          "href": "/company/news-articles"
+        }
+      ]
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
     }
   ],
   "btn": {
-    "label": "Contact US",
-    "link": "/contactus"
+    "label": "Contact us",
+    "href": "contact-us"
   }
 }
