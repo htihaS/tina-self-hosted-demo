@@ -22,11 +22,13 @@
   "dependencies": {
     "@tinacms/cli": "^1.5.34",
     "@tinacms/datalayer": "^1.2.29",
+    "antd": "^5.13.2",
     "next": "^14.0.3",
     "next-auth": "^4.24.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-tinacms-inline": "^0.54.0",
+    "sass": "^1.70.0",
     "tinacms": "^1.5.24",
     "tinacms-authjs": "^1.0.1",
     "tinacms-gitprovider-github": "^1.0.0",

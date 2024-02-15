@@ -1,0 +1,60 @@
+.container {
+  width: 100%;
+  background: #0a0a0a;
+  // padding-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  border: 1px solid #0a0a0a;
+
+  .carousel_root {
+    background-color: #0a0a0a;
+
+    :global(.slick-track) {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .image_container {
+    height: 100%;
+    display: flex !important;
+    justify-content: space-around !important;
+    opacity: 0.5;
+
+    .image {
+      text-align: center;
+      // object-fit: cover !important;
+    }
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .container {
+    padding-top: 3rem !important;
+    padding-bottom: 8rem !important;
+    .image_container {
+      padding-top: 10px !important;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding-bottom: unset !important;
+    .carousel_root {
+      padding-top: 50px !important;
+    }
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    .carousel_root {
+      padding-top: 15px !important;
+
+      .image_container {
+        padding: 0 20px !important;
+      }
+    }
+  }
+}
